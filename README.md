@@ -2,8 +2,8 @@
 24 Hours Of Every IP on the Internet
 
 👨‍💻
-Passionate about science & technology and their impact on society.
-Eager to create solutions addressing real-life problems by leveraging state-of-the-art and cutting-edge tech. 
+Enthusiastic about science & technology and their impact on society.
+Eager to create solutions addressing real-life problems by leveraging state-of-the-art tech. 
 
 🐱‍💻
 Solving challenges on:

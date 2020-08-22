@@ -1,6 +1,8 @@
 ### ![world](https://user-images.githubusercontent.com/41951429/90957025-0053b500-e494-11ea-9359-35bcaede0092.gif)
+24 Hours Of Every IP on the Internet
 
-
+https://www.hackerrank.com/theocharistr?h,
+https://www.sololearn.com/Profile/16824388 r_r=1
 <!--
 **theocharistr/theocharistr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

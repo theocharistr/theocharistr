@@ -7,7 +7,7 @@ Eager to create solutions addressing real-life problems by leveraging state-of-t
 
 🐱‍💻
 Solving challenges on:
-https://www.sololearn.com/Profile/16824388 
+https://www.sololearn.com/Profile/16824388 ,
 https://www.hackerrank.com/theocharistr?h,
 
 <!--

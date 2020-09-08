@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 ![Robot](https://user-images.githubusercontent.com/41951429/92495922-c73b7480-f1f7-11ea-859f-9422935e29ff.gif)
 
 
-*Digital & Optimal Control*
+
+🤖*Digital & Optimal Control*🤖

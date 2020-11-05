@@ -6,8 +6,7 @@ Enthusiastic about science & technology and their impact on society.
 Eager to create solutions addressing real-life problems by leveraging state-of-the-art tech. 
 
 🐱‍💻
-[study(country) for country in {🇬🇷 🇸🇪 🇩🇪 🇮🇸 🇬🇧 🇫🇮 🇮🇹 🇭🇺󠁧󠁢󠁥󠁮}] 🇭🇺
- 
+[study(country) for country in {🇬🇷 🇸🇪 🇩🇪 🇮🇸 🇬🇧 🇫🇮 🇮🇹 🇭🇺󠁧󠁢󠁥󠁮}]
 <!--
 **theocharistr/theocharistr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

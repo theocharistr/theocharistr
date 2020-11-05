@@ -6,9 +6,7 @@ Enthusiastic about science & technology and their impact on society.
 Eager to create solutions addressing real-life problems by leveraging state-of-the-art tech. 
 
 🐱‍💻
-Solving challenges on:
-https://www.sololearn.com/Profile/16824388 ,
-https://www.hackerrank.com/theocharistr?h,
+[study(country) for country in {🇬🇷 🇸🇪 🇩🇪 🇮🇸 🇬🇧 🇫🇮 🇮🇹 🇭🇺󠁧󠁢󠁥󠁮}]
 
 <!--
 **theocharistr/theocharistr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

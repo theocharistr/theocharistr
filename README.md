@@ -4,6 +4,7 @@
 👨‍💻 🐱‍💻
 [study(country) for country in {Greece, Sweden, Germany, United Kingdom, Iceland, Finland, Italy, Hungary󠁧󠁢󠁥󠁮}]
 
+![Countries](https://user-images.githubusercontent.com/41951429/98380910-802bfd00-2049-11eb-9f27-1ca5d4d0883e.JPG)
 
 <!--
 **theocharistr/theocharistr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

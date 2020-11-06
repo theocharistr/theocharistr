@@ -1,12 +1,11 @@
 ### ![world](https://user-images.githubusercontent.com/41951429/90957025-0053b500-e494-11ea-9359-35bcaede0092.gif)
 24 Hours Of Every IP on the Internet
 
-👨‍💻
-Enthusiastic about science & technology and their impact on society.
-Eager to create solutions addressing real-life problems by leveraging state-of-the-art tech. 
+👨‍💻 🐱‍💻
+[study(country) for country in {Greece, Sweden, Germany, United Kingdom, Iceland, Finland, Italy, Hungary󠁧󠁢󠁥󠁮}]
 
-🐱‍💻
-[study(country) for country in {Greece, Sweden, Germany, England, Iceland, Northern Ireland, Finland, Italy, Hungary󠁧󠁢󠁥󠁮}]
+![Countries](https://user-images.githubusercontent.com/41951429/98379890-20812200-2048-11eb-9429-ecfe0b7799d2.png)
+
 <!--
 **theocharistr/theocharistr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

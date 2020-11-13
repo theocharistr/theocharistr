@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 
 
 🤖*Digital & Optimal Control*🤖
-MINSEG Balancing Robot using PID and LQG control and arduino interface
+MINSEG Balancing Robot using PID and LQG control and arduino interface 🦾
+

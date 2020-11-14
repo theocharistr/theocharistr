@@ -36,4 +36,8 @@ MINSEG Balancing Robot using PID and LQG control and arduino interface 🦾
  
 ![Junction2019](https://user-images.githubusercontent.com/41951429/99147556-49299d00-2682-11eb-84c6-af62e7c55bea.gif)
  
-Junction 2019, the largest hacking event in Europe
+Junction 2019, Helsinki,  the largest hacking event in Europe
+
+![RobotUprising](https://user-images.githubusercontent.com/41951429/99149231-06b98d80-268d-11eb-844e-d78810e8142c.gif)
+  
+Robot Uprising 2019, Helsinki

@@ -28,8 +28,12 @@ Here are some ideas to get you started:
 
 ![Robot](https://user-images.githubusercontent.com/41951429/92495922-c73b7480-f1f7-11ea-859f-9422935e29ff.gif)
 
+ 
 
 
 🤖*Digital & Optimal Control*🤖
 MINSEG Balancing Robot using PID and LQG control and arduino interface 🦾
-
+ 
+![Junction2019](https://user-images.githubusercontent.com/41951429/99147556-49299d00-2682-11eb-84c6-af62e7c55bea.gif)
+ 
+Junction 2019, the largest hacking event in Europe

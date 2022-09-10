@@ -8,7 +8,7 @@
 
 
 👨‍💻 🐱‍💻
-[study(country) for country in {Greece, Sweden, Germany, United Kingdom, Iceland, Finland, Italy, Hungary󠁧󠁢󠁥󠁮}]
+[study(country) for country in {Greece, Sweden, Germany, United Kingdom, Iceland, Finland, Italy, Hungary, Cyprus󠁧󠁢󠁥󠁮}]
 
 
 <!--

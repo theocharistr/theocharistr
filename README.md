@@ -36,7 +36,3 @@ Europe's largest hands-on robotics hackathon
 
 ![RobotUprising](https://user-images.githubusercontent.com/41951429/99149231-06b98d80-268d-11eb-844e-d78810e8142c.gif)  
 
-
-## 24 Hours Of Every IP on the Internet
-
-### ![world](https://user-images.githubusercontent.com/41951429/90957025-0053b500-e494-11ea-9359-35bcaede0092.gif)

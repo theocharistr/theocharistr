@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td style="text-align:center;">
-      <h3>🤖 Digital & Optimal Control 🤖</h3>
+      <h3>🤖 Digital &amp; Optimal Control 🤖</h3>
       <img src="https://user-images.githubusercontent.com/41951429/92495922-c73b7480-f1f7-11ea-859f-9422935e29ff.gif" width="200"/>
       <p>
         <strong>MINSEG Self-Balancing Robot</strong><br>
-        A two-wheeled inverted pendulum robot using PID & LQG control with an Arduino interface.
+        A two-wheeled inverted pendulum robot using PID &amp; LQG control with an Arduino interface.
       </p>
     </td>
 
@@ -33,6 +33,3 @@
     </td>
   </tr>
 </table>
-
-
-

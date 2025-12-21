@@ -5,31 +5,26 @@
 ---
  
 ## 🚀 Projects & Hackathons  
+
 <table>
   <tr>
-    <td style="text-align:center;">
-      <h3>🤖 Digital &amp; Optimal Control 🤖</h3>
-      <img src="https://user-images.githubusercontent.com/41951429/92495922-c73b7480-f1f7-11ea-859f-9422935e29ff.gif" width="200"/>
-      <p>
-        <strong>MINSEG Self-Balancing Robot</strong><br>
-        A two-wheeled inverted pendulum robot using PID &amp; LQG control with an Arduino interface.
-      </p>
+    <td align="center">
+      <strong>🤖 Digital &amp; Optimal Control 🤖</strong><br><br>
+      <img src="https://user-images.githubusercontent.com/41951429/92495922-c73b7480-f1f7-11ea-859f-9422935e29ff.gif" width="200"><br><br>
+      <strong>MINSEG Self-Balancing Robot</strong><br>
+      Two-wheeled inverted pendulum robot using PID &amp; LQG control with an Arduino interface.
     </td>
 
-    <td style="text-align:center;">
-      <h3>Junction 2019, Helsinki</h3>
-      <img src="https://user-images.githubusercontent.com/41951429/99147556-49299d00-2682-11eb-84c6-af62e7c55bea.gif" width="200"/>
-      <p>
-        Participated in Junction 2019, the largest hacking event in Europe, held in Helsinki.
-      </p>
+    <td align="center">
+      <strong>Junction 2019, Helsinki</strong><br><br>
+      <img src="https://user-images.githubusercontent.com/41951429/99147556-49299d00-2682-11eb-84c6-af62e7c55bea.gif" width="200"><br><br>
+      Participated in Junction 2019, the largest hacking event in Europe.
     </td>
 
-    <td style="text-align:center;">
-      <h3>Robot Uprising 2019, Helsinki</h3>
-      <img src="https://user-images.githubusercontent.com/41951429/99149231-06b98d80-268d-11eb-844e-d78810e8142c.gif" width="200"/>
-      <p>
-        Europe’s largest hands-on robotics hackathon.
-      </p>
+    <td align="center">
+      <strong>Robot Uprising 2019, Helsinki</strong><br><br>
+      <img src="https://user-images.githubusercontent.com/41951429/99149231-06b98d80-268d-11eb-844e-d78810e8142c.gif" width="200"><br><br>
+      Europe’s largest hands-on robotics hackathon.
     </td>
   </tr>
 </table>

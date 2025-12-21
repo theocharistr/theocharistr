@@ -7,7 +7,7 @@
 ## 🚀 Projects & Hackathons  
 | 🤖 Digital & Optimal Control | Junction 2019 | Robot Uprising 2019 |
 |-----------------------------|---------------|---------------------|
-| ![]([GIF_URL](https://user-images.githubusercontent.com/41951429/92495922-c73b7480-f1f7-11ea-859f-9422935e29ff.gif)) | ![]([GIF_URL](https://user-images.githubusercontent.com/41951429/99147556-49299d00-2682-11eb-84c6-af62e7c55bea.gif)) | ![]([GIF_URL](https://user-images.githubusercontent.com/41951429/99149231-06b98d80-268d-11eb-844e-d78810e8142c.gif)) |
+| <img src="https://user-images.githubusercontent.com/41951429/92495922-c73b7480-f1f7-11ea-859f-9422935e29ff.gif" width="200">| <img src="https://user-images.githubusercontent.com/41951429/99147556-49299d00-2682-11eb-84c6-af62e7c55bea.gif" width="200"> |<img src="https://user-images.githubusercontent.com/41951429/99149231-06b98d80-268d-11eb-844e-d78810e8142c.gif" width="200"> |
 <table>
   <tr>
     <td align="center">

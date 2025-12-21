@@ -15,6 +15,9 @@
       A two‑wheeled inverted pendulum robot using PID & LQG control with an Arduino interface.</p>
     </td>
 
+<table>
+  <tr>
+
     <td align="center" width="33%">
       <h3>Junction 2019, Helsinki</h3>
       <img src="https://user-images.githubusercontent.com/41951429/99147556-49299d00-2682-11eb-84c6-af62e7c55bea.gif" width="200"/>
@@ -26,6 +29,8 @@
       <img src="https://user-images.githubusercontent.com/41951429/99149231-06b98d80-268d-11eb-844e-d78810e8142c.gif" width="200"/>
       <p>Europe’s largest hands‑on robotics hackathon.</p>
     </td>
+
   </tr>
 </table>
+
 
